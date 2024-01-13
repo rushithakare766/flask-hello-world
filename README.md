@@ -1,2 +1,2 @@
 # flask-hello-world
-build and deploy code a simple flask application 
+build and deploy code a simple flask application on AWS.
